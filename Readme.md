@@ -21,7 +21,7 @@ This document consolidates the expectations from the several files that are curr
 
 [Example Dashboard](Example_Dashboard.md)
 
-[Template Document](Terra_FW_Template.pdf)
+[Template Document](Terra_FW_template.pdf)
 
 ## WDL
 
