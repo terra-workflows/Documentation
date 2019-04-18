@@ -19,7 +19,7 @@ This document consolidates the expectations from the several files that are curr
 * [ ] Contact Information
 * [ ] Licensing
 
-[Example Dashboard](Example/ Dashboard.png)
+[Example Dashboard](Example_Dashboard.png)
 
 ## WDL
 
