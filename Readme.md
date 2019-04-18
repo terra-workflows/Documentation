@@ -61,15 +61,16 @@ This document consolidates the expectations from the several files that are curr
 ## Dataset 
 
 * [ ] Workspace Attributes Loaded into Workspace
-     - [ ] References uploaded to a google bucket accessible by CD.
-     - [ ] Access to all files should be public. Confirm that data is consented for use case.
-Corresponds to inputs. For example, if input bams are aligned to hg38, then reference should be hg38.
-
+     - [ ] References uploaded to a google bucket that are publicly accessible.
+     - [ ] References correspond to input files (e.g. input bams are aligned to hg38, then reference should be hg38.)
+     - [ ] Access to all attribute files should be public. 
+* [ ] Access to all dockers in the workspace attributes and WDLs should be public. [Broadies Instructions](https://software.broadinstitute.org/firecloud/documentation/article?id=6886)
 * [ ] Data Models loaded into Workspace 
 * [ ] Input and reference data uploaded to a google bucket.
      - [ ] Reference data sets required by the WDL and notebooks.
      - [ ] Test data sets to show that methods are working.
      - [ ] Directions on how to load full data sets into the data model provided in [Dashboard](Example_Dashboard.md)
+     - [ ] If data is not fully accessible to the public, the dashboard contains instructions on how to obtain credentials.
 * [ ] Access to all test files and references should be public.
      - [ ] Public bucket owned and maintained by Scientist.
      - [ ] Public bucket owned and maintained by [Comms Team](https://console.cloud.google.com/storage/browser/terra-featured-workspaces/?project=broad-dsde-outreach&organizationId=548622027621)
@@ -78,12 +79,13 @@ Corresponds to inputs. For example, if input bams are aligned to hg38, then refe
      
      ```
      gsutil acl ch -r -u AllUsers:R gs://path/to/bucket
-
      ```
 
-## Review
+## Review - In addition to reviewing the checklist above
 
-* [ ] All WDL Analysis run with the Datasets provided
+* [ ] All WDL Analysis run with the Datasets provided.
+* [ ] All test datasets, Workspace attributes, reference data and dockers are publicly readable.
+* [ ] If full data sets are not public, instructions on how to obtain access are in the dashboard.
 * [ ] All Notebooks Run and generate plots with no additional *ad hoc* loading of packages
 * [ ] unchecked 
 * [ ] unchecked 
