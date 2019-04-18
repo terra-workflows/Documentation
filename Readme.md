@@ -20,6 +20,7 @@ This document consolidates the expectations from the several files that are curr
 * [ ] Licensing
 
 [Example Dashboard](Example_Dashboard.md)
+
 [Template Document](Terra_FW_Template.pdf)
 
 ## WDL
