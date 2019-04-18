@@ -110,5 +110,5 @@ This document consolidates the expectations from the several files that are curr
      
      ![How to make a public workspace from Swagger](Makepublic.jpg)
 
-* [ } Once it’s public, you can use the Firecloud (https://github.com/broadinstitute/dsde-docs/wiki/FireCloud-SOP) to make it featured.
+* [ ] Once it’s public, you can use the Firecloud (https://github.com/broadinstitute/dsde-docs/wiki/FireCloud-SOP) to make it featured.
 
