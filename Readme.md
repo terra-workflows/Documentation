@@ -26,10 +26,10 @@ This document consolidates the expectations from the several files that are curr
 
 * [ ] WDL is in a repository
      - [ ] Scientist has uploaded to Methods Repo
-      - [ ] Scientist has uploaded wdl and json to Github 
-            - [ ] and made a workflow in Dockstore
-      - [ ] Comms Team member has uploaded the wdl and json to  [terra-workflows github](https://github.com/terra-workflows/)
-      - [ ] & made a workflow in Dockstore.
+     - [ ] Scientist has uploaded wdl and json to Github 
+          - [ ] and made a workflow in Dockstore
+     - [ ] Comms Team member has uploaded the wdl and json to  [terra-workflows github](https://github.com/terra-workflows/)
+     - [ ] & made a workflow in Dockstore.
       
 [Example Github Structure in terra-workflows](https://github.com/terra-workflows/tetralogy-of-fallot)
 ![Example Folders to be included in github](Example_github_structure.png)
