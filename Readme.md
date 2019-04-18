@@ -19,7 +19,7 @@ This document consolidates the expectations from the several files that are curr
 * [ ] Contact Information
 * [ ] Licensing
 
-[Example Dashboard](Example_Dashboard.png)
+[Example Dashboard](Example_Dashboard.md)
 [Template Document](Terra_FW_Template.pdf)
 
 ## WDL
@@ -43,7 +43,7 @@ This document consolidates the expectations from the several files that are curr
           - [ ] & made a workflow in Dockstore.
      - [ ] Comms Team Member has created a ReadMe for the repo
      
-* [ ] Repos containing WDL contain the [Broad Licensing File](LICENSE)
+* [ ] Repos containing WDL contain the [Broad Licensing File](LICENSE) or equivalent if covered under a different license.
       
 [Example Github Structure in terra-workflows](https://github.com/terra-workflows/tetralogy-of-fallot)
 ![Example Folders to be included in github](Example_github_structure.png)
