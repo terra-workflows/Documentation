@@ -107,13 +107,8 @@ This document consolidates the expectations from the several files that are curr
 * [ ] Make the workspace public (Beri, Tiffany, Sushma and Adelaide currently have permissions.  One of these people need to be an owner on the workspace in order to make it public.
 
      [Link to Swagger Location to Make Workspace Public](https://sam.dsde-prod.broadinstitute.org/#!/Resources/setPolicyPublic)
+     
+     ![How to make a public workspace from Swagger](Makepublic.jpg)
 
-Once it’s public, you can use the Firecloud SOP on the DSDE-Comms git wiki to feature the workspace.
-
-* [ ] unchecked 
-* [ ] unchecked 
-* [ ] unchecked 
-* [ ] unchecked 
-* [ ] unchecked 
-
+* [ } Once it’s public, you can use the Firecloud (https://github.com/broadinstitute/dsde-docs/wiki/FireCloud-SOP) to make it featured.
 
