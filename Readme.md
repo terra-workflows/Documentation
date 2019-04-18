@@ -53,7 +53,7 @@ This document consolidates the expectations from the several files that are curr
 
 * [ ] All required dependencies are loaded
 * [ ] Links to required startup scripts are provided
-* [ ] The [instructions for using environmental variables](https://broadinstitute.zendesk.com/hc/en-us/articles/360026639112-New-Environmental-Variables-for-Jupyter-Notebooks) in the notebook are provided
+* [ ] The [instructions for using environmental variables](https://broadinstitute.zendesk.com/hc/en-us/articles/360026639112-New-Environmental-Variables-for-Jupyter-Notebooks) in the notebook are linked to inside the notebook.
 * [ ] unchecked 
 * [ ] unchecked 
 * [ ] unchecked 
@@ -61,13 +61,25 @@ This document consolidates the expectations from the several files that are curr
 ## Dataset 
 
 * [ ] Workspace Attributes Loaded into Workspace
+     - [ ] References uploaded to a google bucket accessible by CD.
+     - [ ] Access to all files should be public. Confirm that data is consented for use case.
+Corresponds to inputs. For example, if input bams are aligned to hg38, then reference should be hg38.
+
 * [ ] Data Models loaded into Workspace 
-* [ ] Input data uploaded to a google bucket.
-     - [ ] Test data sets to show that methods are working
+* [ ] Input and reference data uploaded to a google bucket.
+     - [ ] Reference data sets required by the WDL and notebooks.
+     - [ ] Test data sets to show that methods are working.
      - [ ] Directions on how to load full data sets into the data model provided in [Dashboard](Example_Dashboard.md)
-* [ ] Access to all test files should be public.
+* [ ] Access to all test files and references should be public.
      - [ ] Public bucket owned and maintained by Scientist.
      - [ ] Public bucket owned and maintained by [Comms Team](https://console.cloud.google.com/storage/browser/terra-featured-workspaces/?project=broad-dsde-outreach&organizationId=548622027621)
+
+     Here is a code snipped that allows bucket owners to make their bucket public.  The user needs to have [Google SDK Tools](https://cloud.google.com/sdk/) installed on their local machine before running this code.
+     
+     ```
+     gsutil acl ch -r -u AllUsers:R gs://path/to/bucket
+
+     ```
 
 ## Review
 
