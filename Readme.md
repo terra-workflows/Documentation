@@ -8,9 +8,9 @@ This document consolidates the expectations from the several files that are curr
 * [ ] Title  
 * [ ] Overview Paragraph 
 * [ ] Experimental Design (required for analysis-focused workspaces) 
-* [ ] Data
-      * [ ] Sample Data
-      * [ ] Workspace Data
+* [ ] Data 
+     - [ ] Sample Data
+     - [ ] Workspace Data
 * [ ] Tools
 * [ ] Tool Name Versions 
 * [ ] Notebooks 
@@ -33,7 +33,8 @@ This document consolidates the expectations from the several files that are curr
           - [ ] & made a workflow in Dockstore
      - [ ] Scientist has created a ReadMe for the repo
 
-          [Example README.md file for Scientist Repo](Template_Readme_Github_Repo.md)
+          [Template for README.md from Colaboratory in Google Drive](Readme_Template_Beri.md)
+          [Example README.md file for Scientist Repo](Example_Readme_Github_Repo.md)
 
      ### COMMS TEAM IS PROVIDING THE REPO 
      
