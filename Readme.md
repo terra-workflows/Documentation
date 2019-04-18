@@ -104,7 +104,9 @@ This document consolidates the expectations from the several files that are curr
      - [ ] gatk-help if the workspace is hosted and maintained by Comms and related to GATK
      - [ ] OBJECT-NAME-TBD if the workspace is hosted and maintained by Comms and not GATK
 * [ ] Get the final approval from either Tiffany, Robert, or Geraldine. --- NOTE THIS PROBABLY NEEDS TO BE TIGER TEAM LEADER BERI or TIFFANY < right?
-* [ ] Make the workspace public (Beri, Tiffany, Sushma and Adelaide currently have permissions.
+* [ ] Make the workspace public (Beri, Tiffany, Sushma and Adelaide currently have permissions.  One of these people need to be an owner on the workspace in order to make it public.
+
+     [Link to Swagger Location to Make Workspace Public](https://sam.dsde-prod.broadinstitute.org/#!/Resources/setPolicyPublic)
 
 Once it’s public, you can use the Firecloud SOP on the DSDE-Comms git wiki to feature the workspace.
 
