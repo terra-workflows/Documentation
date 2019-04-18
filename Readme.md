@@ -49,26 +49,19 @@ This document consolidates the expectations from the several files that are curr
       
 
 
-* [ ] Scientist has uploaded to Dockstore
-* [ ] unchecked 
-* [ ] unchecked 
-* [ ] unchecked 
-* [ ] unchecked 
-
-
 ## Notebook
 
-* [ ] unchecked 
-* [ ] unchecked 
-* [ ] unchecked 
+* [ ] All required dependencies are loaded
+* [ ] Links to required startup scripts are provided
+* [ ] The [instructions for using environmental variables](https://broadinstitute.zendesk.com/hc/en-us/articles/360026639112-New-Environmental-Variables-for-Jupyter-Notebooks) in the notebook are provided
 * [ ] unchecked 
 * [ ] unchecked 
 * [ ] unchecked 
 
 ## Dataset 
 
-* [ ] unchecked 
-* [ ] unchecked 
+* [ ] Workspace Attributes Loaded into Workspace
+* [ ] Data Models loaded into Workspace 
 * [ ] unchecked 
 * [ ] unchecked 
 * [ ] unchecked 
@@ -76,8 +69,8 @@ This document consolidates the expectations from the several files that are curr
 
 ## Review
 
-* [ ] unchecked 
-* [ ] unchecked 
+* [ ] All WDL Analysis run with the Datasets provided
+* [ ] All Notebooks Run and generate plots with no additional *ad hoc* loading of packages
 * [ ] unchecked 
 * [ ] unchecked 
 * [ ] unchecked 
