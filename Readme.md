@@ -101,7 +101,7 @@ This document consolidates the expectations from the several files that are curr
      - [ ] Scientists Billing Project if hosted and maintained by their lab.
      - [ ] gatk-help if the workspace is hosted and maintained by Comms and related to GATK
      - [ ] OBJECT-NAME-TBD if the workspace is hosted and maintained by Comms and not GATK
-* [ ] Get the final approval from either Tiffany, Robert, or Geraldine. --- NOTE THIS PROBABLY NEEDS TO BE TIGER TEAM LEADER BERI or TIFFANY < right?
+* [ ] Get the final approval from Beri {for the moment, and possibly Tiffany, Robert, or Geraldine if there are higher level issues needing to be addressed}
 * [ ] Make the workspace public (Beri, Tiffany, Sushma and Adelaide currently have permissions.  One of these people need to be an owner on the workspace in order to make it public.
 
      [Link to Swagger Location to Make Workspace Public](https://sam.dsde-prod.broadinstitute.org/#!/Resources/setPolicyPublic)
