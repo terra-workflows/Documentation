@@ -62,10 +62,12 @@ This document consolidates the expectations from the several files that are curr
 
 * [ ] Workspace Attributes Loaded into Workspace
 * [ ] Data Models loaded into Workspace 
-* [ ] unchecked 
-* [ ] unchecked 
-* [ ] unchecked 
-* [ ] unchecked 
+* [ ] Input data uploaded to a google bucket.
+     - [ ] Test data sets to show that methods are working
+     - [ ] Directions on how to load full data sets into the data model provided in [Dashboard](Example_Dashboard.md)
+* [ ] Access to all test files should be public.
+     - [ ] Public bucket owned and maintained by Scientist.
+     - [ ] Public bucket owned and maintained by [Comms Team](https://console.cloud.google.com/storage/browser/terra-featured-workspaces/?project=broad-dsde-outreach&organizationId=548622027621)
 
 ## Review
 
