@@ -90,17 +90,23 @@ This document consolidates the expectations from the several files that are curr
 * [ ] If full data sets are not public, instructions on how to obtain access are in the dashboard.
 * [ ] All Notebooks Run and generate plots with no additional *ad hoc* loading of packages
 * [ ] The provided WDL/Inputs/Resources/Docker Images must be able to complete successfully with valid resultsFor example, variant callers should be calling variants in known locations for the input data.
-     - [ ] The SA verifies whether the outputs are valid with the given input.
 * [ ] The summary of the pipeline and/or work provides enough detail for someone not knowledgeable about the method to be able to run it successfully.
-* [ ] Relevant publications are linked.
+* [ ] Relevant publications are linked in the dashboard.
+* [ ] Have the Science Advisor look over the workspace and have them focus on making sure what’s written in the workspace summary is scientifically accurate and the generated outputs are correct. 
+* [ ] Have a person from Eds review workspace so that the workspace summary communicates its contents effectively
 
-* [ ] unchecked 
-* [ ] unchecked 
-* [ ] unchecked 
 
 ## Finishing Steps
 
-* [ ] unchecked 
+* [ ] Create a final version of the workspace by cloning the draft workspace created earlier in to the appropriate billing project ID (same as namespace). 
+     - [ ] Scientists Billing Project if hosted and maintained by their lab.
+     - [ ] gatk-help if the workspace is hosted and maintained by Comms.
+     
+WE NEED INFO ABOUT BILLING OBJECT
+Get the final approval from either Tiffany, Robert, or Geraldine.
+Once they have given the thumbs up, make the workspace public. 
+Once it’s public, you can use the Firecloud SOP on the DSDE-Comms git wiki to feature the workspace.
+
 * [ ] unchecked 
 * [ ] unchecked 
 * [ ] unchecked 
