@@ -25,11 +25,21 @@ This document consolidates the expectations from the several files that are curr
 ## WDL
 
 * [ ] WDL is in a repository
-     - [ ] Scientist has uploaded to Methods Repo
+
+     ### SCIENTIST IS PROVIDING THE REPO 
+
+     - [ ] Scientist has a method in the Firecloud Methods Repo
      - [ ] Scientist has uploaded wdl and json to Github 
-          - [ ] and made a workflow in Dockstore
+          - [ ] & made a workflow in Dockstore
+     - [ ] Scientist has created a ReadMe for the repo
+
+          [Example README.md file for Scientist Repo](Template_Readme_Github_Repo.md)
+
+     ### COMMS TEAM IS PROVIDING THE REPO 
+     
      - [ ] Comms Team member has uploaded the wdl and json to  [terra-workflows github](https://github.com/terra-workflows/)
-     - [ ] & made a workflow in Dockstore.
+          - [ ] & made a workflow in Dockstore.
+     - [ ] Comms Team Member has created a ReadMe for the repo
       
 [Example Github Structure in terra-workflows](https://github.com/terra-workflows/tetralogy-of-fallot)
 ![Example Folders to be included in github](Example_github_structure.png)
@@ -37,9 +47,7 @@ This document consolidates the expectations from the several files that are curr
 [Example Workflow on Dockstore](https://dockstore.org/my-workflows/github.com/terra-workflows/tetralogy-of-fallot/Call-single-sample-GVCF-GATK)
 ![Example Worklow on Dockstore](Example_Workflow_Tool.png)
       
-            
-If repo isn’t available, send the wdl and json directly to CD.
-Upload or Send a ReadMe describing the contents of the repo (ask CD for template).
+
 
 * [ ] Scientist has uploaded to Dockstore
 * [ ] unchecked 
