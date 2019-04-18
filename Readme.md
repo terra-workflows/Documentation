@@ -94,19 +94,18 @@ This document consolidates the expectations from the several files that are curr
 * [ ] The provided WDL/Inputs/Resources/Docker Images must be able to complete successfully with valid resultsFor example, variant callers should be calling variants in known locations for the input data.
 * [ ] The summary of the pipeline and/or work provides enough detail for someone not knowledgeable about the method to be able to run it successfully.
 * [ ] Relevant publications are linked in the dashboard.
-* [ ] Have the Science Advisor look over the workspace and have them focus on making sure what’s written in the workspace summary is scientifically accurate and the generated outputs are correct. 
-* [ ] Have a person from Eds review workspace so that the workspace summary communicates its contents effectively
-
 
 ## Finishing Steps
 
+* [ ] Have the Science Advisor look over the workspace and have them focus on making sure what’s written in the workspace summary is scientifically accurate and the generated outputs are correct. 
+* [ ] Have a person from Eds review workspace so that the workspace summary communicates its contents effectively
 * [ ] Create a final version of the workspace by cloning the draft workspace created earlier in to the appropriate billing project ID (same as namespace). 
      - [ ] Scientists Billing Project if hosted and maintained by their lab.
-     - [ ] gatk-help if the workspace is hosted and maintained by Comms.
-     
-WE NEED INFO ABOUT BILLING OBJECT
-Get the final approval from either Tiffany, Robert, or Geraldine.
-Once they have given the thumbs up, make the workspace public. 
+     - [ ] gatk-help if the workspace is hosted and maintained by Comms and related to GATK
+     - [ ] OBJECT-NAME-TBD if the workspace is hosted and maintained by Comms and not GATK
+* [ ] Get the final approval from either Tiffany, Robert, or Geraldine. --- NOTE THIS PROBABLY NEEDS TO BE TIGER TEAM LEADER BERI or TIFFANY < right?
+* [ ] Make the workspace public (Beri, Tiffany, Sushma and Adelaide currently have permissions.
+
 Once it’s public, you can use the Firecloud SOP on the DSDE-Comms git wiki to feature the workspace.
 
 * [ ] unchecked 
