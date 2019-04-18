@@ -40,6 +40,8 @@ This document consolidates the expectations from the several files that are curr
      - [ ] Comms Team member has uploaded the wdl and json to  [terra-workflows github](https://github.com/terra-workflows/)
           - [ ] & made a workflow in Dockstore.
      - [ ] Comms Team Member has created a ReadMe for the repo
+     
+* [ ] Repos containing WDL contain the [Broad Licensing File](LICENSE)
       
 [Example Github Structure in terra-workflows](https://github.com/terra-workflows/tetralogy-of-fallot)
 ![Example Folders to be included in github](Example_github_structure.png)
@@ -87,7 +89,11 @@ This document consolidates the expectations from the several files that are curr
 * [ ] All test datasets, Workspace attributes, reference data and dockers are publicly readable.
 * [ ] If full data sets are not public, instructions on how to obtain access are in the dashboard.
 * [ ] All Notebooks Run and generate plots with no additional *ad hoc* loading of packages
-* [ ] unchecked 
+* [ ] The provided WDL/Inputs/Resources/Docker Images must be able to complete successfully with valid resultsFor example, variant callers should be calling variants in known locations for the input data.
+     - [ ] The SA verifies whether the outputs are valid with the given input.
+* [ ] The summary of the pipeline and/or work provides enough detail for someone not knowledgeable about the method to be able to run it successfully.
+* [ ] Relevant publications are linked.
+
 * [ ] unchecked 
 * [ ] unchecked 
 * [ ] unchecked 
