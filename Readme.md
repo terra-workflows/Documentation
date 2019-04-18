@@ -58,9 +58,6 @@ This document consolidates the expectations from the several files that are curr
 * [ ] All required dependencies are loaded
 * [ ] Links to required startup scripts are provided
 * [ ] The [instructions for using environmental variables](https://broadinstitute.zendesk.com/hc/en-us/articles/360026639112-New-Environmental-Variables-for-Jupyter-Notebooks) in the notebook are linked to inside the notebook.
-* [ ] unchecked 
-* [ ] unchecked 
-* [ ] unchecked 
 
 ## Dataset 
 
