@@ -25,7 +25,7 @@ This document consolidates the expectations from the several files that are curr
 ## WDL
 
 * [ ] WDL is in a repository
-      - [ ] Scientist has uploaded to Methods Repo
+     - [ ] Scientist has uploaded to Methods Repo
       - [ ] Scientist has uploaded wdl and json to Github 
             - [ ] and made a workflow in Dockstore
       - [ ] Comms Team member has uploaded the wdl and json to  [terra-workflows github](https://github.com/terra-workflows/)
