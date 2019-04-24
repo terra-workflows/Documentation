@@ -93,9 +93,5 @@
 * [ ] Get the final approval from Beri {for the moment, and possibly Tiffany, Robert, or Geraldine if there are higher level issues needing to be addressed}
 * [ ] Make the workspace public (Beri, Tiffany, Sushma and Adelaide currently have permissions.  One of these people need to be an owner on the workspace in order to make it public.
 
-     [Link to Swagger Location to Make Workspace Public](https://sam.dsde-prod.broadinstitute.org/#!/Resources/setPolicyPublic)
-     
-     ![How to make a public workspace from Swagger](Makepublic.jpg)
-
 * [ ] Once it’s public, you can use the [Firecloud SOP on the dsde-docs wiki] (https://github.com/broadinstitute/dsde-docs/wiki/FireCloud-SOP) to make it featured.
 
