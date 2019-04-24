@@ -97,6 +97,7 @@ This document consolidates the expectations from the several files that are curr
 
 * [ ] Have the Science Advisor look over the workspace and have them focus on making sure what’s written in the workspace summary is scientifically accurate and the generated outputs are correct. 
 * [ ] Have a person from Eds review workspace so that the workspace summary communicates its contents effectively
+* [ ] Notify Eric Karofsky (erickarofsk@broadinstitute.org) (optional)
 * [ ] Create a final version of the workspace by cloning the draft workspace created earlier in to the appropriate billing project ID (same as namespace). 
      - [ ] Scientists Billing Project if hosted and maintained by their lab.
      - [ ] gatk-help if the workspace is hosted and maintained by Comms and related to GATK
