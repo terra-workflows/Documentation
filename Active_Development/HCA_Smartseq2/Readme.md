@@ -41,13 +41,6 @@
      
 * [ ] Repos containing WDL contain the [Broad Licensing File](LICENSE) or equivalent if covered under a different license.
       
-[Example Github Structure in terra-workflows](https://github.com/terra-workflows/tetralogy-of-fallot)
-![Example Folders to be included in github](Example_github_structure.png)
-      
-[Example Workflow on Dockstore](https://dockstore.org/my-workflows/github.com/terra-workflows/tetralogy-of-fallot/Call-single-sample-GVCF-GATK)
-![Example Worklow on Dockstore](Example_Workflow_Tool.png)
-      
-
 
 ## Notebook
 
