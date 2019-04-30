@@ -1,7 +1,7 @@
 ## Dashboard
 
-* [ ] Title  
-* [ ] Overview Paragraph 
+* [x] Title  
+* [x] Overview Paragraph 
 * [ ] Experimental Design (required for analysis-focused workspaces) 
 * [ ] Data 
      - [ ] Sample Data
@@ -11,8 +11,8 @@
 * [ ] Notebooks 
 * [ ] Software versions
 * [ ] Time and cost
-* [ ] Contact Information
-* [ ] Licensing
+* [x] Contact Information
+* [x] Licensing
 
 [Example Dashboard](Example_Dashboard.md)
 
